@@ -131,7 +131,7 @@ data-ride="carousel">
 		</div>
 		<div class="col-md-2 col-sm-4 col-xs-12 text-center">
 			<img src="imgs/i20.jpg" alt="Ferrari" class="img-responsive">
-			<h3>Hyundai Elite i20</h3>
+			<h3>Hyundai i20</h3>
 							<a href="i20" class="btn btn-danger">
 				<i class="fa fa-search"></i> Details
 			</a>
