@@ -111,18 +111,30 @@ data-ride="carousel">
 		<div class="col-md-2 col-sm-4 col-xs-12 text-center">
 			<img src="imgs/dezire.jpg" alt="BMW" class="img-responsive">
 			<h3>Swift Dezire</h3>
+							<a href="Swift-Dzire" class="btn btn-danger">
+				<i class="fa fa-search"></i> Details
+			</a>
 		</div>
 		<div class="col-md-2 col-sm-4 col-xs-12 text-center">
 			<img src="imgs/swift.jpg" alt="Corvete" class="img-responsive">
 			<h3>Maruti Swift</h3>
+							<a href="Swift" class="btn btn-danger">
+				<i class="fa fa-search"></i> Details
+			</a>
 		</div>
 		<div class="col-md-2 col-sm-4 col-xs-12 text-center">
 			<img src="imgs/alto.jpg" alt="Corvete" class="img-responsive">
 			<h3>Maruti Alto</h3>
+							<a href="Alto-800" class="btn btn-danger">
+				<i class="fa fa-search"></i> Details
+			</a>
 		</div>
 		<div class="col-md-2 col-sm-4 col-xs-12 text-center">
 			<img src="imgs/i20.jpg" alt="Ferrari" class="img-responsive">
 			<h3>Hyundai Elite i20</h3>
+							<a href="i20" class="btn btn-danger">
+				<i class="fa fa-search"></i> Details
+			</a>
 		</div>
 	</div> <!-- fim do row -->
 </div> <!-- fim do container -->
