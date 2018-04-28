@@ -223,15 +223,7 @@ Features
 <span data-toggle="modal" data-target="#GORP" onmousedown="ga('send', 'event', 'car-model', 'click', 'gorp-button-similar-car');moe_track('car-model-page','car','gorp-button-similar-car','Hyundai','Elite i20','');" onclick="openOnroadPricePopup('12','982','','Hyundai Elite i20','','model','11497');">
 </th>
 
-<th class="celda_encabezado_general relative com-headcol" itemprop="isSimilarTo" itemscope itemtype="http://schema.org/Car">
-<a itemprop="url" href="/newcars/Maruti-Suzuki/Swift" onmousedown="ga('send', 'event', 'car-model', 'click', 'similar-car');moe_track('car-model-page','car','similar-car','Maruti Suzuki','Swift','');" title="Maruti Swift" class="">
-<img class="car-pic" itemprop="image" src="https://media.zigcdn.com/media/model/2018/Jan/maruti-swift-right_150x75.jpg" title="Swift" title="Swift" alt="Swift"/>
-<span class="block"></span>
-<span class="CVFD_heading" itemprop="name">Maruti Swift	</span>
-</a>
-<span class="subhead pb-10 fnt-14">Rs.
-4.99 lakh	</span>
-</th>
+
 <th class="celda_encabezado_general relative com-headcol" itemprop="isSimilarTo" itemscope itemtype="http://schema.org/Car">
 <a itemprop="url" href="/newcars/Honda/Jazz" onmousedown="ga('send', 'event', 'car-model', 'click', 'similar-car');moe_track('car-model-page','car','similar-car','Honda','Jazz','');" title="Honda Jazz" class="">
 <img class="car-pic" itemprop="image" src="https://media.zigcdn.com/media/model/2016/Feb/honda_jazz_150x75.jpg" title="Jazz" title="Jazz" alt="Jazz"/>
