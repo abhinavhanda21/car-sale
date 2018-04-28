@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Dang Car House</title>
+	<meta charset="utf-8">
+	<meta name="description" content="Revenda de carros, novos e usados de alta qualidade">
+	<meta name="keywords" content="carros,novos,usados,importados,ivate">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+
+	<!-- Open Graph -->
+	<meta property="og:locale" content="pt_BR">
+	<meta property="og:title" content="Car Sale - Especialista em Carros Antigos e Relíquias">
+	<meta property="og:description" content="Revenda de carros, novos e usados de alta qualidade">
+	<meta property="og:image" content="http://pos.professorburnes.com.br/carsale/img/carsale.jpg">
+	<meta property="og:image:type" content="image/jpeg">
+	<meta property="og:image:width" content="800">
+	<meta property="og:image:height" content="315">
+	<meta property="og:type" content="website">
+
+	<!-- Twitter Card -->
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:url" content="@professorburnes">
+	<meta name="twitter:image" content="http://pos.professorburnes.com.br/carsale/img/carsale.jpg">
+	<meta name="twitter:title" content="Car Sale - Especialista em Carros Antigos e Relíquias">
+
+	<!-- CSS -->
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="icon" type="image/png" href="imgs/icone.png">
+
+	<!-- JavaScript -->
+	<script type="text/javascript" src="js/jquery-3.1.0.min.js"></script>
+	<script type="text/javascript" src="js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="js/bootstrap-inputmask.min.js"></script>
+	<script type="text/javascript" src="js/jqBootstrapValidation.js"></script>
+
+	<script>
+  		$(function () { 
+  			$("input,select,textarea").not("[type=submit]").jqBootstrapValidation(); 
+  		});
+	</script>
+
+
+</head>
+<body>
+	<nav class="navbar navbar-default">
+		<div class="container-fluid container">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#menu"
+				area-expanded="false">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+			</div>
+			<div class="collapse navbar-collapse" 
+			id="menu">
+				<ul class="nav navbar-nav">
+					<li>
+						<a href="index.php">Home</a>
+					</li>
+				<li>
+						<a href="about.html">About Us</a>
+					</li>
+					<li class="dropdown">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+						Vehicles <i class="caret"></i>
+						</a>
+
+						<ul class="dropdown-menu">
+							<li>
+								<a href="nacionais">
+								National
+								</a>
+							</li>
+							<li>
+								<a href="importados">
+								Imported
+								</a>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<a href="index.html">Contact</a>
+					</li>
+				</ul>
+
+				<form name="form1" method="post" action="buscar" class="navbar-form navbar-right">
+					<div class="input-group input-group-lg">
+						<input type="text" name="busca"
+						placeholder="search..."
+						class="form-control">
+						<span class="input-group-btn">
+							<button type="submit"
+							class="btn btn-default">
+								<i class="fa fa-search"></i>
+							</button>
+						</span>
+					</div>
+				</form>
+			</div>
+		</div>
+	</nav>
+<div class="container">
+  <h2>About Company</h2>
+  <p>Since 2002 Dang Car House has been offering a truly distinctive full service experience. From the moment you decide to purchase a car until you are ready to trade it in Dang Car House is here for you. We install and customize all of the cars we sell in house, service and paint any make or model of car and we sell any part or accessory you could want.</p>
+  <p>Our vision is to construct a complete ecosystem for consumers and car manufacturers, dealers and related businesses such that consumers have easy and complete access to not only buying and selling cars, but also manage their entire ownership experience, be it accessories, tyres, batteries, insurance or roadside assistance./p><br>
+  
+  <!-- Left-aligned media object -->
+  <div class="media">
+    <div class="media-left">
+      <img src="imgs/kuvar.jpeg" class="media-object" style="width:300px">
+    </div>
+    <div class="media-body">
+        <h2>Kuvarpreet Singh</h2>
+        <p class="title">CEO & Founder</p>
+      <p>The proud owner of this entrepreneurial venture.</p>
+      <p><button class="button"><a href="index.html"> Contact</a></button></p>
+    </div>
+  </div>
+  <hr>
+  
+</div>
+</body>
+</html>
