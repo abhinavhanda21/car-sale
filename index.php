@@ -142,17 +142,25 @@
 
 	<div class="clearfix"></div>
 
-	<footer>
-		<div class="container">
-			<span class="pull-left">
-				<img src="imgs/logo.png" alt="Car Sale">
-				Dang Car House
-			</span>
-			<span class="pull-right">
-				This is an open source project
-			</span>
-		</div>
-	</footer>
+<footer id="Footer" itemscope itemtype="http://schema.org/WPFooter">
+<section class="footer-bg hidden-xs">
+<div class="container">
+<div class="row f-btm-row f-btm-row-paddingB">
+<div style="overflow:hidden" class="col-md-12">
+<div class="divide-footer">
+
+<div class="divide-footer-Heading"> Follow Us </div>
+<span rel="nofollow noopener noreferrer" onclick="goToUrl('https://www.facebook.com/zigwheels','_blank');"><span class="sprite zw-head-f-social mr-10 cursorPointer"></span><span>
+<span rel="nofollow noopener noreferrer" onclick="goToUrl('https://twitter.com/intent/follow?screen_name=zigwheels','_blank');"><span class="sprite zw-head-t-social mr-10 cursorPointer"></span></span>
+<span rel="nofollow noopener noreferrer" onclick="goToUrl('https://plus.google.com/+zigwheels','_blank');"><span class="sprite zw-head-g-social mr-10 cursorPointer"></span></span>
+<span rel="nofollow noopener noreferrer" onclick="goToUrl('http://www.youtube.com/user/zigwheels','_blank');"><span class="sprite zw-head-y-social mr-10 cursorPointer"></span></span>
+</div>
+</div>
+
+<div class="f-b-txt pull-right">Copyright &copy; 2008-2018 Powered By <span onclick="goToUrl('http://girnarsoft.com/','_blank');">Girnar Software Pvt. Ltd.</span> All Rights Reserved.</div>
+</div>
+</div>
+</footer>
 </body>
 </html>
 
