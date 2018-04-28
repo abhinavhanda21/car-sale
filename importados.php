@@ -26,7 +26,7 @@
 				<i class="fa fa-search"></i> Details
 			</a>
 		</div>
-				<div class="col-md-6 col-sm-6 col-xs-12">
+		<div class="col-md-6 col-sm-6 col-xs-12 text-center">
 			<div class="thumbnail">
 				<img src="imgs/landau.jpg" alt="Mustang" class="blur">
 				<h2>Mercedes-Benz CLA</h2>
