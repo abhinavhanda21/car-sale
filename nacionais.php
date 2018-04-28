@@ -39,7 +39,7 @@
                     <img src="imgs/dezire.jpg" alt="gol" class="img-responsive">
 			<h3>Maruti Swift Dzire</h3>
 			<p>Maruti Swift Dzire prices start at Rs. 5.56 lakh for petrol and goes upto Rs. 8.43 lakh. The prices of Swift Dzire diesel variants start at Rs. 6.56 lakh and the top-end diesel is priced at Rs. 9.43 lakh. Maruti Swift Dzire is available in 14 variants and 6 colours.</p>
-							<a href="Swift-dezire" class="btn btn-danger">
+							<a href="Swift-Dzire" class="btn btn-danger">
 				<i class="fa fa-search"></i> Details
 			</a>
 		</div>
@@ -62,8 +62,7 @@
 				<i class="fa fa-search"></i> Details
 			</a>
 		</div>
-		</div>
-		<div class="row">
+
 		<div class="col-md-3 col-sm-6 col-xs-12 text-center">
                     <img src="imgs/nacionais/alto.jpg" alt="fiatpalio" class="img-responsive">
 			<h3>Maruti Suzuki Alto 800</h3>
