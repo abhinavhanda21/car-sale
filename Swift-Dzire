@@ -214,7 +214,7 @@ Features
 </th>
 <th class="celda_encabezado_general relative recommended-col">
 <a href="javascript:void(0);" onmousedown="ga('send', 'event', 'car-model', 'click', 'similar-car');moe_track('car-model-page','car','similar-car','Hyundai','Elite i20','');" title="Hyundai Elite i20" class="firstA">
-<img class="car-pic" src="imgs/dezire" title="Elite i20" title="Elite i20" alt="Elite i20"/>
+<img class="car-pic" src="imgs/dezire.jpg" title="Elite i20" title="Elite i20" alt="Elite i20"/>
 <span class="block"></span>
 <span class="CVFD_heading">Maruti Swift Dzire</span>
 </a>
